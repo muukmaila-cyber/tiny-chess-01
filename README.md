@@ -1,12 +1,16 @@
 # tiny-chess-01 — a 4 KB chess engine
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/muukmaila-cyber/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/muukmaila-cyber/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 ![Python 3.13](https://img.shields.io/badge/python-3.13-blue)
 ![stdlib only](https://img.shields.io/badge/stdlib-only-green)
 ![size](https://img.shields.io/badge/main.py-%E2%89%A4%204096%20bytes-orange)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
 A chess engine written in Python, packed into a single `main.py` of at most
-4,096 bytes, for the make.fun **tiny-chess-01** competition: build the
+4,096 bytes, for the [make.fun **tiny-chess-01** competition](https://make.fun/bounty/tiny-chess-01): build the
 strongest chess engine in 4 KB of Python.
 
 ## How it plays
